@@ -1,0 +1,5 @@
+id	forward-absolute-filepath	reverse-absolute-filepath
+ERR8390324	$PWD/d16S/ERR8390324_R1.fastq.gz 	$PWD/d16S/ERR8390324_R2.fastq.gz
+ERR8390325	$PWD/d16S/ERR8390325_R1.fastq.gz	$PWD/d16S/ERR8390325_R2.fastq.gz
+ERR8404941	$PWD/d16S/ERR8404941_R1.fastq.gz	$PWD/d16S/ERR8404941_R2.fastq.gz
+ERR8406978	$PWD/d16S/ERR8406978_R1.fastq.gz	$PWD/d16S/ERR8406978_R2.fastq.gz
